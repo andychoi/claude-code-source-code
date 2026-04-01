@@ -7,6 +7,8 @@
 
 **Language**: **English** | [中文](README_CN.md)
 
+https://bits-bytes-nn.github.io/insights/agentic-ai/2026/03/31/claude-code-architecture-analysis.html
+
 ---
 
 ## Table of Contents
